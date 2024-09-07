@@ -1,5 +1,7 @@
 #include <iostream>
+#include <Windows.h>
 #include "Array.h"
+#include <conio.h>
 using namespace std;
 
 //
@@ -151,6 +153,8 @@ int main() {
 	ArrayFunctions obj(arr, size);
 	do
 	{
+		_getch();
+		system("CLS");
 		cout << "Enter 1 to print Array"<<endl;
 		cout << "Enter 2 to insert value at Start"<<endl;
 		cout << "Enter 3 to insert value at end"<<endl;

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SE study material 3rd semester\\DSA Lab\\Lab 1\\",
+  "WorkspaceRootPath": "D:\\SE study material 3rd semester\\DSA-LAB-SE-2023\\Lab 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4CEB3D6A-AEAE-4C99-A2AD-41E0C97204FE}|Lab 1.vcxproj|D:\\SE study material 3rd semester\\DSA Lab\\Lab 1\\Lab 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4CEB3D6A-AEAE-4C99-A2AD-41E0C97204FE}|Lab 1.vcxproj|D:\\SE study material 3rd semester\\DSA-LAB-SE-2023\\Lab 1\\Lab 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4CEB3D6A-AEAE-4C99-A2AD-41E0C97204FE}|Lab 1.vcxproj|solutionrelative:Lab 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CEB3D6A-AEAE-4C99-A2AD-41E0C97204FE}|Lab 1.vcxproj|D:\\SE study material 3rd semester\\DSA Lab\\Lab 1\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4CEB3D6A-AEAE-4C99-A2AD-41E0C97204FE}|Lab 1.vcxproj|D:\\SE study material 3rd semester\\DSA-LAB-SE-2023\\Lab 1\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{4CEB3D6A-AEAE-4C99-A2AD-41E0C97204FE}|Lab 1.vcxproj|solutionrelative:Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -32,24 +32,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Array.h",
-              "DocumentMoniker": "D:\\SE study material 3rd semester\\DSA Lab\\Lab 1\\Array.h",
+              "DocumentMoniker": "D:\\SE study material 3rd semester\\DSA-LAB-SE-2023\\Lab 1\\Array.h",
               "RelativeDocumentMoniker": "Array.h",
-              "ToolTip": "D:\\SE study material 3rd semester\\DSA Lab\\Lab 1\\Array.h",
+              "ToolTip": "D:\\SE study material 3rd semester\\DSA-LAB-SE-2023\\Lab 1\\Array.h",
               "RelativeToolTip": "Array.h",
               "ViewState": "AQIAACMAAAAAAAAAAAAuwC8AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-03T08:52:06.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T08:52:06.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab 1.cpp",
-              "DocumentMoniker": "D:\\SE study material 3rd semester\\DSA Lab\\Lab 1\\Lab 1.cpp",
+              "DocumentMoniker": "D:\\SE study material 3rd semester\\DSA-LAB-SE-2023\\Lab 1\\Lab 1.cpp",
               "RelativeDocumentMoniker": "Lab 1.cpp",
-              "ToolTip": "D:\\SE study material 3rd semester\\DSA Lab\\Lab 1\\Lab 1.cpp*",
-              "RelativeToolTip": "Lab 1.cpp*",
-              "ViewState": "AQIAAK8AAAAAAAAAAAAAALsAAAAIAAAA",
+              "ToolTip": "D:\\SE study material 3rd semester\\DSA-LAB-SE-2023\\Lab 1\\Lab 1.cpp",
+              "RelativeToolTip": "Lab 1.cpp",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAKEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-03T08:11:12.916Z",
               "EditorCaption": ""
